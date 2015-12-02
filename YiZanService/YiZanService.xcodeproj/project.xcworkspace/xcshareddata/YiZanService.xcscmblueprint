@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2030E7D8598EEDB1B643520DB8DDF027E7999426",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D8E193DBF6C48DCC0CD4A1118D8BF62BB6F7EE50" : 0,
+    "2030E7D8598EEDB1B643520DB8DDF027E7999426" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "035A7617-C4D4-43B3-8860-1F14199F5FFA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D8E193DBF6C48DCC0CD4A1118D8BF62BB6F7EE50" : "YiZanService",
+    "2030E7D8598EEDB1B643520DB8DDF027E7999426" : "kShimeijiaClient\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YiZanService",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YiZanService\/YiZanService.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CnKyo\/kShimeijiaClient.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2030E7D8598EEDB1B643520DB8DDF027E7999426"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.189:5000\/YiZanO2O\/YiZanService",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D8E193DBF6C48DCC0CD4A1118D8BF62BB6F7EE50"
+    }
+  ]
+}

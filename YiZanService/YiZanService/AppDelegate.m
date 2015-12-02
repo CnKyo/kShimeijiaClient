@@ -57,7 +57,6 @@
     [QMapServices sharedServices].apiKey = QQMAPKEY;
     
     [WXApi registerApp:@"wx206e0a3244b4e469" withDescription:@"十美家"];
-    
 }
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
